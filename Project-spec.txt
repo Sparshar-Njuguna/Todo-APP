@@ -1,0 +1,3 @@
+Project: Todo App
+Goal: Build a responsive task tracker with basic CRUD functionality.
+Tools: VS Code, GitHub, GitHub Pages, Microsoft Copilot
